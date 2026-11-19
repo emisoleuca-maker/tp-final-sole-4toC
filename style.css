@@ -1,4 +1,4 @@
-/* ESTILOS GENERALES */
+
 
 body {
     margin: 0;
@@ -8,7 +8,7 @@ body {
     color: #333333;
 }
 
-/* ENCABEZADO */
+
 
 header {
     background-color: #263859;
@@ -26,7 +26,7 @@ header p {
     font-size: 16px;
 }
 
-/* BARRA DE NAVEGACION */
+
 
 nav {
     background-color: #17243d;
@@ -45,7 +45,7 @@ nav a:hover {
     color: #f0c987;
 }
 
-/* CONTENIDO PRINCIPAL */
+
 
 main {
     padding: 30px;
@@ -62,7 +62,7 @@ p {
     line-height: 1.6;
 }
 
-/* IMAGENES */
+
 
 img {
     max-width: 100%;
@@ -76,7 +76,7 @@ img {
     margin: 20px;
 }
 
-/* TARJETAS */
+
 
 .tarjetas {
     display: flex;
@@ -104,7 +104,7 @@ img {
     color: #263859;
 }
 
-/* BOTONES */
+
 
 .boton {
     display: inline-block;
@@ -120,7 +120,7 @@ img {
     background-color: #b77c39;
 }
 
-/* CONTACTO */
+
 
 .contacto {
     max-width: 600px;
@@ -156,7 +156,7 @@ button:hover {
     background-color: #b77c39;
 }
 
-/* PIE DE PAGINA */
+
 
 footer {
     background-color: #263859;
@@ -166,7 +166,6 @@ footer {
     margin-top: 30px;
 }
 
-/* ADAPTACION PARA CELULARES */
 
 @media (max-width: 600px) {
 
